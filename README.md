@@ -25,29 +25,29 @@ Foco em Back-end com C#, Java e ASP.NET — e projetos com JavaScript e Dart. �
 
 ## 🚀 Especialidades / Em evolução
 
-- **APIs e Back-end:** construção de endpoints, organização de camadas e boas práticas  
-- **Estrutura de Dados e Algoritmos:** lógica, desempenho e base sólida  
-- **Git & GitHub:** versionamento, branches e commits bem feitos  
+- **Back-end e APIs:** construção de endpoints, organização de camadas e boas práticas  
+- **Estrutura de Dados e Algoritmos:** lógica sólida e base de engenharia  
+- **Versionamento com Git:** organização de branches e commits bem estruturados  
 - **Projetos práticos:** aprendizado aplicado com repositórios reais  
 
 ---
 
 ## 📌 Objetivo
 
-Me consolidar como **desenvolvedor back-end**, construindo soluções **eficientes, escaláveis e bem estruturadas**.
+Me consolidar como **desenvolvedor back-end**, construindo soluções eficientes, escaláveis e bem estruturadas.
 
 ---
 
 ## 📫 Contato
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK/" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-lima-goes-b419822ab/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
+  <a href="mailto:gustavorochamaciel2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.gg/SEUUSER" target="_blank">
+  <a href="https://discord.com/users/stuarttt__1" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
