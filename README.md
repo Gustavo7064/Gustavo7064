@@ -57,7 +57,7 @@ Foco em Back-end com C#, Java e ASP.NET — além de aplicações com JavaScript
 ## 🚀 Especialidades / Em evolução
 
 - **Back-end e APIs:** construção de endpoints, organização de camadas e boas práticas  
-- **Banco de Dados:** modelagem relacional e consultas com MySQL  
+- **Banco de Dados:** modelagem relacional e consultas com MySQL.  
 - **Estrutura de Dados e Algoritmos:** lógica sólida e base de engenharia  
 - **Versionamento com Git:** organização de branches e commits bem estruturados  
 - **Projetos práticos:** aprendizado aplicado com repositórios reais  
