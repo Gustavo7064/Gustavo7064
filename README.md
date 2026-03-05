@@ -42,6 +42,9 @@ Foco em Back-end com C#, Java e ASP.NET — além de aplicações com JavaScript
   <!-- Dart -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart" />
   <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/react-original.svg" height="40" alt="dart" />
+  <img width="12" />
   
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
