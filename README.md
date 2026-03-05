@@ -27,6 +27,10 @@ Foco em Back-end com C#, Java e ASP.NET — além de aplicações com JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
 
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
   <img width="12" />
@@ -42,43 +46,8 @@ Foco em Back-end com C#, Java e ASP.NET — além de aplicações com JavaScript
   <!-- Dart -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart" />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/react-original.svg" height="40" alt="dart" />
-  <img width="12" />
   
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
 
-</div>
-
----
-
-## 🚀 Especialidades / Em evolução
-
-- **Back-end e APIs:** construção de endpoints, organização de camadas e boas práticas  
-- **Banco de Dados:** modelagem relacional e consultas com MySQL  
-- **Estrutura de Dados e Algoritmos:** lógica sólida e base de engenharia  
-- **Versionamento com Git:** organização de branches e commits bem estruturados  
-- **Projetos práticos:** aprendizado aplicado com repositórios reais  
-
----
-
-## 📌 Objetivo
-
-Me consolidar como **desenvolvedor back-end**, construindo soluções eficientes, escaláveis e bem estruturadas.
-
----
-
-## 📫 Contato
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gustavo-lima-goes-b419822ab/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gustavorochamaciel2007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/stuarttt__1" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
 </div>
