@@ -66,7 +66,7 @@ Foco em Back-end com C#, Java e ASP.NET — além de aplicações com JavaScript
 
 ## 📌 Objetivo
 
-Me consolidar como **desenvolvedor back-end**, construindo soluções eficientes, escaláveis e bem estruturadas.
+Me consolidar como **Desenvolvedor back-end**, construindo soluções eficientes, escaláveis e bem estruturadas.
 
 ---
 
