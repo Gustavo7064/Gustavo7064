@@ -5,6 +5,7 @@ Estudante de Engenharia de Software Back-end Developer. <br>
 Foco em Back-end com C#, Java e ASP.NET — além de aplicações com JavaScript, Dart e banco de dados MySQL. 🇧🇷
 </p>
 
+
 ---
 
 ## 🛠️ Tecnologias e Stacks
@@ -52,7 +53,7 @@ Foco em Back-end com C#, Java e ASP.NET — além de aplicações com JavaScript
 
 </div>
 
----
+----
 
 ## 🚀 Especialidades / Em evolução
 
