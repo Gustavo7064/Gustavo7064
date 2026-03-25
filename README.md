@@ -50,8 +50,8 @@ Foco em Back-end com C#, Java e ASP.NET — além de aplicações com JavaScript
   
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img width="12"/>
 
-</div>
 
 ----
 
