@@ -1,39 +1,64 @@
-<h1 align="left">Olá Devs! Eu sou o Gustavo 👋</h1>
+<h1 align="left">Hello, Devs! I'm Gustavo 👋</h1>
 
 <p align="left">
-Estudante de Engenharia de Software Back-end Developer. <br>
-Foco em Back-end com C#, e ASP.NET — além de aplicações com JavaScript, Dart e banco de dados MySQL. 🇧🇷
+Back-end Developer in training, focused on building web applications, APIs and scalable systems. <br>
+I have experience with C#, .NET, ASP.NET MVC, Node.js, Express.js, Java, JavaScript and relational databases such as MySQL and SQL Server. 🇧🇷
 </p>
-
 
 ---
 
-## 🛠️ Tecnologias e Stacks
+## 🧑‍💻 About Me
+
+<p align="left">
+I am a developer in the early stages of my career, passionate about technology, software development and problem-solving.
+My main focus is Back-end development, especially with C#, .NET, ASP.NET MVC, Node.js, Express.js and Java.
+</p>
+
+<p align="left">
+I have practical experience in academic and personal projects involving CRUD operations, user authentication, REST APIs, MVC architecture, database integration and web application development.
+I am constantly improving my skills through practical projects, studies and challenges that help me grow as a software developer.
+</p>
+
+<p align="left">
+I am currently studying and improving my knowledge in Clean Code, object-oriented programming, Entity Framework, JWT authentication, Docker, cloud fundamentals, microservices and NoSQL databases.
+</p>
+
+---
+
+## 🛠️ Technologies and Stacks
 
 <div align="left">
-  
+
   <!-- C# -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
   <img width="12" />
-  
+
   <!-- .NET -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet" />
   <img width="12" />
-  
+
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
   <img width="12" />
-  
+
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
 
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
   <img width="12" />
 
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img width="12" />
+
+  <!-- Express -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
+  <img width="12" />
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
 
   <!-- HTML -->
@@ -43,39 +68,62 @@ Foco em Back-end com C#, e ASP.NET — além de aplicações com JavaScript, Dar
   <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
   <img width="12" />
-  
-  <!-- Dart -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart" />
+
+  <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
   <img width="12" />
-  
+
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
-  <img width="12"/>
-  
-<!-- Kotlin -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin" />
-<img width="12" />
+  <img width="12" />
 
-----
+  <!-- SQL Server -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver" />
+  <img width="12" />
 
-## 🚀 Especialidades / Em evolução
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img width="12" />
 
-- **Back-end e APIs:** construção de endpoints, organização de camadas e boas práticas  
-- **Banco de Dados:** modelagem relacional e consultas com MySQL.  
-- **Estrutura de Dados e Algoritmos:** lógica sólida e base de engenharia  
-- **Versionamento com Git:** organização de branches e commits bem estruturados  
-- **Projetos práticos:** aprendizado aplicado com repositórios reais
-- **Projetos reais:** produzidos e testados para empresas.  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img width="12" />
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img width="12" />
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+
+</div>
 
 ---
 
-## 📌 Objetivo
+## 🚀 Main Skills / Currently Improving
 
-Construir carreira como Desenvolvedor Back-end, desenvolvendo sistemas escaláveis e bem estruturados com foco em C#, Java, .NET e boas práticas de arquitetura e engenharia de software.
+- **Back-end Development:** C#, .NET, ASP.NET MVC, Node.js, Express.js and Java
+- **REST APIs:** endpoints, routes, controllers, services and integration with databases
+- **Databases:** relational modeling, SQL queries, MySQL, SQL Server and basic MongoDB concepts
+- **Software Architecture:** MVC, layered architecture, separation of responsibilities and clean code practices
+- **Authentication:** user login, access control and JWT fundamentals
+- **Version Control:** Git, GitHub, commits, branches and repository organization
+- **Front-end Fundamentals:** HTML, CSS, JavaScript, TypeScript, React and Bootstrap
+- **DevOps Fundamentals:** Docker, cloud fundamentals and continuous learning in deployment practices
+- **Practical Projects:** academic, personal and real-world projects focused on applying development concepts
 
 ---
 
-## 📫 Contato
+## 📌 Career Goal
+
+My goal is to build a solid career as a Back-end Developer, creating well-structured, scalable and maintainable systems using C#, .NET, Java, Node.js, Express.js, APIs, databases and good software engineering practices.
+
+I am looking for opportunities as a Junior Developer, Intern or Apprentice, where I can apply my knowledge, learn from experienced professionals and continue growing in the software development field.
+
+---
+
+## 📫 Contact
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gustavo-lima-goes-b419822ab/" target="_blank">
