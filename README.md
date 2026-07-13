@@ -3,7 +3,7 @@
 
 <p align="left">
 Desenvolvedor Back-end, focado na criação de aplicações web, APIs e sistemas escaláveis. <br>
-Possuo experiência com C#, Node.js, TypeScript, JavaScript, Express.js, e bancos de dados relacionais, como MySQL PostgreSQL e SQL Server. 🇧🇷
+Possuo experiência com C#, Node.js, TypeScript, JavaScript, Express., e bancos de dados relacionais, como MySQL PostgreSQL e SQL Server. 🇧🇷
 </p>
 
 ---
@@ -12,7 +12,7 @@ Possuo experiência com C#, Node.js, TypeScript, JavaScript, Express.js, e banco
 
 <p align="left">
 Sou um desenvolvedor apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
-Meu principal foco é o desenvolvimento Back-end, especialmente com C#, .NET, ASP.NET MVC, Node.js, TypeScript, Express.js.
+Meu principal foco é o desenvolvimento Back-end, especialmente com C#, Node.js, TypeScript, JavaScript, + Express.
 </p>
 
 <p align="left">
