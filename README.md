@@ -118,9 +118,9 @@ Atualmente, estou aprofundando meus conhecimentos em Clean Code, Programação O
 
 ## 📌 Objetivo Profissional
 
-Meu objetivo é construir uma carreira sólida como **Desenvolvedor Back-end**, desenvolvendo sistemas bem estruturados, escaláveis e de fácil manutenção utilizando **C#, .NET, Java, Node.js, Express.js, APIs, bancos de dados** e boas práticas de engenharia de software.
+Meu objetivo é construir uma carreira sólida como **Desenvolvedor Back-end**, desenvolvendo sistemas bem estruturados, escaláveis e de fácil manutenção utilizando **C#, Node.js, TypeScript, JavaScript, Express.** e boas práticas de engenharia de software.
 
-Busco oportunidades como **Desenvolvedor Júnior, Estagiário ou Aprendiz**, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e continuar evoluindo na área de desenvolvimento de software.
+Busco oportunidades como **Desenvolvedor Júnior, Estagiário**, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e continuar evoluindo na área de desenvolvimento de software.
 
 ---
 
