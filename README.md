@@ -1,31 +1,32 @@
-<h1 align="left">Hello, Devs! I'm Gustavo 👋</h1>
+
+<h1 align="left">Olá, Devs! Eu sou o Gustavo 👋</h1>
 
 <p align="left">
-Back-end Developer in training, focused on building web applications, APIs and scalable systems. <br>
-I have experience with C#, .NET, ASP.NET MVC, Node.js, Express.js, Java, JavaScript and relational databases such as MySQL and SQL Server. 🇧🇷
+Desenvolvedor Back-end, focado na criação de aplicações web, APIs e sistemas escaláveis. <br>
+Possuo experiência com C#, Node.js, TypeScript, JavaScript, Express.js, e bancos de dados relacionais, como MySQL PostgreSQL e SQL Server. 🇧🇷
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre Mim
 
 <p align="left">
-I am a developer in the early stages of my career, passionate about technology, software development and problem-solving.
-My main focus is Back-end development, especially with C#, .NET, ASP.NET MVC, Node.js, Express.js and Java.
+Sou um desenvolvedor em início de carreira, apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
+Meu principal foco é o desenvolvimento Back-end, especialmente com C#, .NET, ASP.NET MVC, Node.js, TypeScript, Express.js.
 </p>
 
 <p align="left">
-I have practical experience in academic and personal projects involving CRUD operations, user authentication, REST APIs, MVC architecture, database integration and web application development.
-I am constantly improving my skills through practical projects, studies and challenges that help me grow as a software developer.
+Possuo experiência prática em projetos acadêmicos e pessoais envolvendo operações CRUD, autenticação de usuários, APIs REST, arquitetura MVC, integração com bancos de dados e desenvolvimento de aplicações web.
+Estou em constante evolução, aprimorando minhas habilidades por meio de projetos práticos, estudos e desafios que contribuem para o meu crescimento como desenvolvedor de software.
 </p>
 
 <p align="left">
-I am currently studying and improving my knowledge in Clean Code, object-oriented programming, Entity Framework, JWT authentication, Docker, cloud fundamentals, microservices and NoSQL databases.
+Atualmente, estou aprofundando meus conhecimentos em Clean Code, Programação Orientada a Objetos (POO), Entity Framework, autenticação com JWT, Docker, fundamentos de computação em nuvem (Cloud Computing), microsserviços e bancos de dados NoSQL.
 </p>
 
 ---
 
-## 🛠️ Technologies and Stacks
+## 🛠️ Tecnologias e Stack
 
 <div align="left">
 
@@ -101,29 +102,29 @@ I am currently studying and improving my knowledge in Clean Code, object-oriente
 
 ---
 
-## 🚀 Main Skills / Currently Improving
+## 🚀 Principais Competências / Atualmente Aprimorando
 
-- **Back-end Development:** C#, .NET, ASP.NET MVC, Node.js, Express.js and Java
-- **REST APIs:** endpoints, routes, controllers, services and integration with databases
-- **Databases:** relational modeling, SQL queries, MySQL, SQL Server and basic MongoDB concepts
-- **Software Architecture:** MVC, layered architecture, separation of responsibilities and clean code practices
-- **Authentication:** user login, access control and JWT fundamentals
-- **Version Control:** Git, GitHub, commits, branches and repository organization
-- **Front-end Fundamentals:** HTML, CSS, JavaScript, TypeScript, React and Bootstrap
-- **DevOps Fundamentals:** Docker, cloud fundamentals and continuous learning in deployment practices
-- **Practical Projects:** academic, personal and real-world projects focused on applying development concepts
-
----
-
-## 📌 Career Goal
-
-My goal is to build a solid career as a Back-end Developer, creating well-structured, scalable and maintainable systems using C#, .NET, Java, Node.js, Express.js, APIs, databases and good software engineering practices.
-
-I am looking for opportunities as a Junior Developer, Intern or Apprentice, where I can apply my knowledge, learn from experienced professionals and continue growing in the software development field.
+- **Desenvolvimento Back-end:** C#, Node.Js, Javascript TypeScript, Express.
+- **APIs REST:** criação de endpoints, rotas, controllers, services e integração com bancos de dados.
+- **Bancos de Dados:** modelagem relacional, consultas SQL, MySQL, SQL Server e conhecimentos básicos em MongoDB.
+- **Arquitetura de Software:** MVC, arquitetura em camadas, separação de responsabilidades e boas práticas de Clean Code.
+- **Autenticação:** login de usuários, controle de acesso e fundamentos de autenticação com JWT.
+- **Controle de Versão:** Git, GitHub, commits, branches e organização de repositórios.
+- **Fundamentos de Front-end:** HTML, CSS, JavaScript, TypeScript, React e Bootstrap.
+- **Fundamentos de DevOps:** Docker, computação em nuvem (Cloud Computing) e aprendizado contínuo sobre práticas de deploy.
+- **Projetos Práticos:** desenvolvimento de projetos acadêmicos, pessoais e aplicações voltadas para cenários reais.
 
 ---
 
-## 📫 Contact
+## 📌 Objetivo Profissional
+
+Meu objetivo é construir uma carreira sólida como **Desenvolvedor Back-end**, desenvolvendo sistemas bem estruturados, escaláveis e de fácil manutenção utilizando **C#, .NET, Java, Node.js, Express.js, APIs, bancos de dados** e boas práticas de engenharia de software.
+
+Busco oportunidades como **Desenvolvedor Júnior, Estagiário ou Aprendiz**, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e continuar evoluindo na área de desenvolvimento de software.
+
+---
+
+## 📫 Contato
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gustavo-lima-goes-b419822ab/" target="_blank">
@@ -136,3 +137,4 @@ I am looking for opportunities as a Junior Developer, Intern or Apprentice, wher
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
+```
