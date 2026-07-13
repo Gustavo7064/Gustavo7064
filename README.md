@@ -11,7 +11,7 @@ Possuo experiência com C#, Node.js, TypeScript, JavaScript, Express.js, e banco
 ## 🧑‍💻 Sobre Mim
 
 <p align="left">
-Sou um desenvolvedor em início de carreira, apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
+Sou um desenvolvedor apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
 Meu principal foco é o desenvolvimento Back-end, especialmente com C#, .NET, ASP.NET MVC, Node.js, TypeScript, Express.js.
 </p>
 
