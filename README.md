@@ -21,7 +21,7 @@ Estou em constante evolução, aprimorando minhas habilidades por meio de projet
 </p>
 
 <p align="left">
-Atualmente, estou aprofundando meus conhecimentos em Clean Code, Programação Orientada a Objetos (POO), Entity Framework, autenticação com JWT, Docker, fundamentos de computação em nuvem (Cloud Computing), microsserviços e bancos de dados NoSQL.
+Atualmente, estou aprofundando meus conhecimentos em Clean Code, Entity Framework, autenticação com JWT, Docker, fundamentos de computação em nuvem (Cloud Computing), microsserviços e bancos de dados NoSQL.
 </p>
 
 ---
@@ -127,7 +127,7 @@ Busco oportunidades como **Desenvolvedor Júnior, Estagiário**, onde eu possa a
 ## 📫 Contato
 
 <div align="left">
-  <a href="linkedin.com/in/gustavo-lima-b419822ab" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-lima-b419822ab/?skipRedirect=true" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gustavorochamaciel2007@gmail.com" target="_blank">
