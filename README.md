@@ -124,6 +124,21 @@ Busco oportunidades como **Desenvolvedor Júnior, Estagiário**, onde eu possa a
 
 ---
 
+## 📱 Experiência com Desenvolvimento Mobile
+
+Durante minha formação, desenvolvi um aplicativo mobile como **Trabalho de Conclusão de Curso (TCC)** utilizando **Flutter** e **Dart**.
+
+Nesse projeto, adquiri experiência com:
+
+- Desenvolvimento de interfaces responsivas;
+- Consumo e integração com APIs REST;
+- Gerenciamento de estado da aplicação;
+- Navegação entre telas;
+- Manipulação de dados em JSON;
+- Boas práticas de desenvolvimento mobile.
+
+Embora meu foco profissional seja o **desenvolvimento Back-end**, essa experiência ampliou minha visão sobre arquitetura de aplicações, integração entre front-end e back-end e desenvolvimento de soluções completas.
+
 ## 📫 Contato
 
 <div align="left">
