@@ -127,7 +127,7 @@ Busco oportunidades como **Desenvolvedor Júnior, Estagiário ou Aprendiz**, ond
 ## 📫 Contato
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gustavo-lima-goes-b419822ab/" target="_blank">
+  <a href="linkedin.com/in/gustavo-lima-b419822ab" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gustavorochamaciel2007@gmail.com" target="_blank">
