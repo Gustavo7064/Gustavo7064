@@ -21,7 +21,7 @@ Estou em constante evolução, aprimorando minhas habilidades por meio de projet
 </p>
 
 <p align="left">
-Atualmente, estou aprofundando meus conhecimentos em Clean Code, Entity Framework, autenticação com JWT, Docker, fundamentos de computação em nuvem (Cloud Computing), microsserviços e bancos de dados NoSQL.
+Atualmente, estou aprofundando meus conhecimentos em Clean Code, Entity Framework, autenticação com JWT, Docker, fundamentos de computação em nuvem (Cloud Computing), microsserviços e bancos de dados NoSQL e mongoDB.
 </p>
 
 ---
