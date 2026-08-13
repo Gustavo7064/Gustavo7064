@@ -16,7 +16,7 @@ Meu principal foco é o desenvolvimento Back-end, especialmente com C#, Node.js,
 </p>
 
 <p align="left">
-Possuo experiência prática em projetos acadêmicos e pessoais envolvendo operações CRUD, autenticação de usuários, APIs REST, arquitetura MVC, integração com bancos de dados e desenvolvimento de aplicações web.
+Possuo experiência prática em projetos acadêmicos e pessoais envolvendo operações CRUD, autenticação de usuários, APIs REST, arquitetura MVC, integração com bancos de dados e desenvolvimento de aplicações web e deploy.
 Estou em constante evolução, aprimorando minhas habilidades por meio de projetos práticos, estudos e desafios que contribuem para o meu crescimento como desenvolvedor de software.
 </p>
 
